@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Rachana Adhikari</h1>
+        <h1>Sophia</h1>
     </header>
 
     <nav>
@@ -22,8 +22,8 @@
     <section id="about">
         <h2>About Me</h2>
         <p>
-            Hello! I'm Sophia. I am passionate about [something you're passionate about]. 
-            In my free time, I love to [some hobbies or activities].
+            Hello! I'm Sophia. I am passionate about engineering. 
+            In my free time, I love to read articles related to engineering.
         </p>
     </section>
 
@@ -41,7 +41,7 @@
     <section id="contact">
         <h2>Contact Me</h2>
         <p>
-            Feel free to reach out! Email me at: <a href="mailto:rachana.adhikari@email.com">rachana.adhikari@email.com</a>
+            Feel free to reach out! Email me at: <a href="mailto:sophia@gmail.com">sophia@email.com</a>
         </p>
     </section>
 
